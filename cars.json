@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "toyota",
+    "price": "5000",
+    "color": "silver"
+  },
+  {
+    "id": 2,
+    "name": "kia",
+    "price": "2000",
+    "color": "red"
+  }
+]
